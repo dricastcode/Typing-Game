@@ -26,7 +26,8 @@ select {
   -webkit-appearance: none;
   -moz-appearance: none;
   border-radius: 0;
-  background-color: #a7c5e3;
+  color: #fff;
+  background-color: #34495e;
 }
 
 select:focus,
